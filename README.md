@@ -2,11 +2,11 @@
 [![TOP.GG Badge](https://discord.com/api/guilds/723151718283477042/widget.png?style=shield)](https://discord.gg/PVET9HJ) 
 
 
-[![GitHub stars](https://img.shields.io/github/stars/GDevelop-game/Open-Platformere.svg?style=social&label=Stars)](https://github.com/Gdevelop-game/Open-Platformer/stargazers) 
+[![GitHub stars](https://img.shields.io/github/stars/GDevelop-game/Open-Platformer.svg?style=social&label=Stars)](https://github.com/Gdevelop-game/Open-Platformer/stargazers) 
 
 [![GitHub watchers](https://img.shields.io/github/watchers/GDevelop-game/Open-Platformer.svg?style=social&label=watch)](https://github.com/Gdevelop-game/Open-Platformer/watchers)
 
-[![Auto Build](https://github.com/Gdevelop-game/GDevelop-Open-Game/workflows/Auto%20Build/badge.svg)  ](https://gdevelop-game.github.io/Open-Platformer/actions)
+[![Auto Build](https://github.com/Gdevelop-game/GDevelop-Open-Game/workflows/Auto%20Build/badge.svg)  ](https://gdevelop-game.github.io/Open-Platformer)
 
 This Repository is an Attempt to create a Platformer using **GDevelop**. The name is likely to change later on. Moereover,
 we are likely to work in teams rather than individually so your performance/contribution will be a major factor.

@@ -25,7 +25,7 @@ jobs:
     # Runs a set of commands using the runners shell
     - name: Build with GDexport
       run: |
-        git clone https://github.com/Gdevelop-game/GDevelop-Open-Game Project
+        git clone https://github.com/Gdevelop-game/Open-Platformer Project
         cd Project/build
         yarn
         yarn web-build
@@ -49,7 +49,7 @@ jobs:
       
       - name: Build with GDexport
         run: |
-          git clone https://github.com/Gdevelop-game/GDevelop-Open-Game Project
+          git clone https://github.com/Gdevelop-game/Open-Platformer Project
           cd Project/build
           yarn
           yarn electron-build
@@ -73,7 +73,7 @@ jobs:
       
       - name: Build with GDexport
         run: |
-          git clone https://github.com/Gdevelop-game/GDevelop-Open-Game Project
+          git clone https://github.com/Gdevelop-game/Open-Platformer Project
           cd Project/build
           yarn
           yarn electron-build
@@ -96,7 +96,7 @@ jobs:
     steps:
       - name: Build with GDexport
         run: |
-          git clone https://github.com/Gdevelop-game/GDevelop-Open-Game Project
+          git clone https://github.com/Gdevelop-game/Open-Platformer Project
           cd Project/build
           yarn
           yarn electron-build
