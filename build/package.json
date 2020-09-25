@@ -1,0 +1,25 @@
+{
+  "name": "open-platformer",
+  "version": "1.0.0",
+  "description": "Build pipeline for Open-Platformer",
+  "main": "build.js",
+  "scripts": {
+    "web-build": "node build.js",
+    "electron-build": "node build.js electron"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gdevelop-game/Open-Platformer.git"
+  },
+  "author": "",
+  "license": "CC-BY-NC-4.0",
+  "bugs": {
+    "url": "https://github.com/Gdevelop-game/Open-Platformer/issues"
+  },
+  "homepage": "https://github.com/Gdevelop-game/Open-Platformer#readme",
+  "dependencies": {
+    "fs-extra": "^9.0.1",
+    "gdexporter": "^2.3.0",
+    "jsdom": "^16.2.2"
+  }
+}
