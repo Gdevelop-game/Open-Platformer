@@ -8,7 +8,7 @@
 
 [![Auto Build](https://github.com/Gdevelop-game/GDevelop-Open-Game/workflows/Auto%20Build/badge.svg)  ](https://gdevelop-game.github.io/Open-Platformer)
 
-This Repository is an Attempt to create a Platformer using **GDevelop**. The name is likely to change later on. Moereover,
+This Repository is an Attempt to create a Platformer using **GDevelop 5** game engine. The name is likely to change later on. Moereover,
 we are likely to work in teams rather than individually so your performance/contribution will be a major factor.
 
 ### Trying the game out
